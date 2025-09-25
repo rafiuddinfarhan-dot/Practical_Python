@@ -8,3 +8,4 @@ for row in range(1):          # row = 0..5  (6 rows)
 
 
     print("Hello World")
+    print("Hello World")
